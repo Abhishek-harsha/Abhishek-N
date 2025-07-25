@@ -37,6 +37,8 @@ To explore and implement **text-to-image generation** using cutting-edge **pre-t
 ## 📸 Sample Output
 
 (./futuristic_city.png)
+C:\Users\a<img width="512" height="512" alt="futuristic_city (2)" src="https://github.com/user-attachments/assets/ecf2c2cc-a0f1-44db-9909-e51f2a8829f6" />
+bhi\Downloads\futuristic_city (2).png
 
 > *Image generated using Stable Diffusion based on the text prompt above.*
 
