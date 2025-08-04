@@ -1,0 +1,57 @@
+Task-05: Neural Style Transfer (NST)
+# 🎨 Neural Style Transfer with VGG19 (TensorFlow)
+
+🚀 **Task-05: Neural Style Transfer (NST)** — Completed during my AI/ML Internship at **Prodigy Infotech**.
+
+In this task, I implemented **Neural Style Transfer (NST)** using **TensorFlow VGG19**, which applies the **artistic style of a painting** to the **content of a photograph** using CNNs.
+
+---
+
+## 🖼️ Example Images:
+| Content Image | Style Image |
+|---------------|-------------|
+| ![Content](images/content_image.jpg) | ![Style](images/style_image.jpg) |
+
+| Stylized Output |
+|-----------------|
+| ![Output](images/stylized_output.jpg) |
+
+---
+
+## 🔧 Tech Stack:
+- Python
+- TensorFlow (VGG19)
+- Google Colab
+- Convolutional Neural Networks (CNNs)
+
+---
+
+## 📌 What I Learned:
+- Feature extraction using CNNs.
+- Calculating **Gram matrices** for style representation.
+- Optimizing an image to match both content and style.
+- Hands-on with **TensorFlow/Keras** and visual aesthetics in AI.
+
+---
+
+## 📂 Files Included:
+- `neural_style_transfer.ipynb`: Notebook code.
+- `images/`: Content, Style, and Output images.
+- `requirements.txt`: (optional) dependencies list.
+
+---
+
+## ⭐ If you like this project, do give it a star!
+cd Neural-Style-Transfer
+git init
+git add .
+git commit -m "Added Neural Style Transfer Project - Task 05"
+git remote add origin https://github.com/YourUsername/Neural-Style-Transfer.git
+git push -u origin master
+
+
+
+
+
+
+
