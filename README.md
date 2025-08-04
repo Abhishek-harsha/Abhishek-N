@@ -82,8 +82,6 @@ To explore and implement **text-to-image generation** using cutting-edge **pre-t
 C:\Users\a<img width="512" height="512" alt="futuristic_city (2)" src="https://github.com/user-attachments/assets/ecf2c2cc-a0f1-44db-9909-e51f2a8829f6" />
 bhi\Downloads\futuristic_city (2).png
 
-> *Image generated using Stable Diffusion based on the text prompt above.*
-
 ---
 
 ## 📌 Key Learnings
@@ -201,16 +199,6 @@ In this task, I implemented **Image-to-Image Translation** using **Conditional G
 - Utilizing **pre-trained Pix2Pix models** for edge ➝ shoe & sketch ➝ photo transformations.
 
 ---
-
-## 📂 Project Structure:
-
----
-
-## 🖼️ Example Output:
-| Input Image | Translated Output |
-|-------------|-------------------|
-| ![Input](images/input_edge_image.jpg) | ![Output](images/output_translated_image.jpg) |
-
 ---
 
 ## ⚙️ How to Run:
@@ -260,6 +248,7 @@ plt.show()
 output:
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/50b755ba-a05f-4407-8028-4cd0587fa0fb" />
 ![Uploading _7000051.jpg…]()
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/adf56f5a-5598-447b-8705-fbda8306d371" />
 
 
 ## 🖥️ **GitHub Push Commands**
@@ -359,3 +348,4 @@ git push -u origin master
 out put:
 Stylized Output Image:
 C:\Users\abhi\OneDrive\Desktop\New folder\image.png
+<img width="1238" height="1071" alt="image" src="https://github.com/user-attachments/assets/7f4d3c30-5d19-49a0-8f2e-24f02588ccd2" />
